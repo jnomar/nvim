@@ -10,6 +10,7 @@ return require('packer').startup(function(use)
     use 'tpope/vim-fugitive'
     use 'numToStr/Comment.nvim'
     use 'morhetz/gruvbox'
+    use 'Mofiqul/dracula.nvim'
     use 'ryanoasis/vim-devicons'
     use 'rhysd/vim-clang-format'
 
